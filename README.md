@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleshprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="ashleshprabhu" /> </p>
 
-- 🔭 I’m currently working on **Blog project**
+- 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Backend,c++**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **HTML,CSS,JS,React js,C,C++**
 
