@@ -4,12 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleshprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="ashleshprabhu" /> </p>
 
-- 🔭 I’m currently working on **Django**
-
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **HTML,CSS,JS,React js,C,C++**
-
 - 📫 How to reach me **ashlesh.prabhu5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
